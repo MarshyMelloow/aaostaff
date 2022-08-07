@@ -1,5 +1,5 @@
 echo off
-git pull https://github.com/MarshyMelloow/aao production
+git pull https://github.com/MarshyMelloow/aaostaff production
 color 4
 title Strting FiveM, Teamspeak, and Cad...
 color a 

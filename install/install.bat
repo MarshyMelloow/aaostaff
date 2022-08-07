@@ -49,7 +49,7 @@ goto :choice
 :install
 winget install --id Git.Git -e --source winget
 cd C:\Users\%USERNAME%\
-git clone https://github.com/MarshyMelloow/aao/
+git clone https://github.com/MarshyMelloow/aaostaff/
 cd C:\Users\%USERNAME%\aao\app
 move "C:\Users\%USERNAME%\aao\app\FiveM Auto Start.lnk" "C:\Users\%USERNAME%\Desktop\"
 cd %install-dir%
